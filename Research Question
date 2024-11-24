@@ -1,0 +1,19 @@
+Dataset ID:   DS064 Case.csv
+7COM1079-2024                    
+This dataset is interesting to us because it contains a clear, organized information about COVID-19 infection, populations, and areas, which allows for better understanding the nature and effects of the pandemic.
+
+Our  Independent variable is: Group
+This  Independent variable datatype is : Categorial  data.
+Our Dependent variable is:  Confirmed                  
+This Dependent variable datatype is : Measurement data
+ 
+
+Our Research Question is
+PRE 7COM1079-2024 
+Is there a difference in the mean of confirmed Covid-19 cases between group infection  and non-group infection ?
+Loading…
+ 
+
+ 
+1.Null hypothesis (H0): There is no difference in the mean of the confirmed Covid-19 cases among group infection  and non-group infection  
+2.    Alternative hypothesis (H1): There is a difference

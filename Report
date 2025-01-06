@@ -1,0 +1,11 @@
+1.1 Introduction
+1.1.1 Problem Statement & Research Motivation
+The COVID-19 pandemic has resulted in varying infection patterns, notably between group and non-group infections (Fallah et al., 2024). Group infections occur in settings where multiple individuals are exposed simultaneously, while non-group infections are isolated cases. It is essential for public health strategies and resource allocation to comprehend how the mean number of confirmed cases varies among these infection types. It has not been well addressed in previous research whether there are substantial differences in the mean number of confirmed COVID-19 cases between these two groups. This work aims to determine whether there is a significant variation in the mean number of confirmed cases between group and non-group infections, providing insights for improved pandemic response and containment efforts.
+1.1.2 The Dataset
+The dataset contains a clear, organized information about COVID-19 infection, populations, and areas, which allows for better understanding the nature and effects of the pandemic. The dataset has 174 rows and 8 columns. The Independent variable is Group, which is a categorical data type and the Dependent variable is Confirmed, which is a Measurement data.
+1.1.3 Research Question
+Based on the problem statement, the research question has been framed as follows;
+RQ 1: Is there a difference in the mean of confirmed Covid-19 cases between group infection and non-group infection?
+To address this research question, the data was visualized using histograms, which revealed that the distribution of confirmed COVID-19 cases is non-normal. As the data is not normally distributed the statistical test selected for further analysis is the Mann-Whitney U test which compares the distribution of the differences between two groups of data namely group infection and non group infection.
+1.1.4 Null hypothesis and alternative hypothesis (H0/H1)
+Null hypothesis (H0): There is no difference in the mean of the confirmed Covid-19 cases among group infection and non-group infection.

@@ -1,0 +1,11 @@
+	Evaluation – Group’s experience
+-What went well
+Our group effectively divided tasks and worked collaboratively to analyze the data on confirmed COVID-19 cases. The research question was clearly defined, and we utilized appropriate statistical methods, including the Wilcoxon rank-sum test, for non-normal data. We also successfully visualized the data using histograms and box plot to assess the distribution of cases. Overall, the group demonstrated good coordination, and everyone contributed effectively in interpreting the results and presenting the findings, ensuring a cohesive outcome.
+-	Points for improvement
+For improvement, the team could focus on better handling missing or incomplete data, as this can influence the reliability of results. It is therefore important to have more elaborative view on the assumptions for the use of the Mann-Whitney U test in order to come up with more efficient outcomes. Time management could be optimized to ensure that all stages of the research receive equal attention, allowing for a more comprehensive discussion. Future research can help expand the analysis, including other factors of the situation, for example, the regional aspect, or healthcare measures, to better understand the nature of COVID-19 infections. 
+-	Group’s time management
+The group managed time effectively by dividing tasks based on individual strengths, ensuring efficient progress on each component. However, some stages, such as data cleaning and analysis, took longer than anticipated, affecting the overall timeline. More attention could be given to planning each phase to prevent delays in the future. 
+-	Project’s overall judgement
+The project effectively addressed the research question by visualizing the data and using the appropriate non-parametric statistical test (Mann-Whitney U test). While the analysis showed no considerable difference between group and non-group infections and the results provide valuable insights for future research, including exploring additional variables or larger datasets.
+-	Comment on GitHub log output
+Output has been visualized and analysis has been produced in GitHub Log Output. 

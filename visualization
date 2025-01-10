@@ -1,0 +1,8 @@
+In this research, R code is used to visualize the distribution of confirmed COVID-19 cases because of its ability to handle datasets efficiently. A histogram chart is employed along with a normal distribution curve to illustrate the data's distribution and also helps in identify underlying patterns and factors influencing the data. The resulting plot is shown below.
+ 
+1.3.2	Inference from the Visual Plot
+From the above visual plot, it is inferred that the plot reveals the overall distribution pattern of confirmed cases across the dataset, offering a broader context to interpret the averages. Further, it reveals that the distribution of confirmed COVID-19 cases does not follow a normal distribution, thus the statistical test chosen is Mann-Whitney U test. Plot margins are set, and the final output is saved as a PDF file named "visualization.pdf".
+1.3.3	Understanding the data
+The box plot shows the mean of confirmed cases for each category and it shows the difference between the mean of confirmed Covid cases for Groups and Non-Groups. 
+ 
+From the above box plot, the "Group" bar is higher than the "Non-Group" bar, which indicates that the group has a higher mean number of confirmed COVID-19 cases. 
